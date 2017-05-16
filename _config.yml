@@ -9,8 +9,8 @@
 title: andythewhale
 email: andymiller1313@gmail.com
 description: I'm andy, this is my blog. I'm a biochemical engineer, programmer, and athlete. I'll use this blog to talk about programming stuff I'm working on, critiquing books/movies/shows, and otther random things. 
-baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
-url: "andythewhale/github.io" # the base hostname & protocol for your site
+baseurl: "andythewhale/github.io" # the subpath of your site, e.g. /blog
+url: "https://andythewhale/github.io" # the base hostname & protocol for your site
 twitter_username: andythewhale
 github_username:  andythewhale
 
