@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "hey, this if my first time posting with you guys"
+title:  "hey, this is my first time posting with you guys"
 date:   2017-05-15 21:21
 categories: jekyll update
 ---
