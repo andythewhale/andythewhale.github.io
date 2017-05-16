@@ -8,13 +8,17 @@
 # Site settings
 title: andythewhale
 email: andymiller1313@gmail.com
-description: I'm andy, this is my blog. I'm a biochemical engineer, programmer, and athlete. I'll use this blog to talk about programming stuff I'm working on, critiquing books/movies/shows, and otther random things. 
-baseurl: "andythewhale/github.io" # the subpath of your site, e.g. /blog
-url: "https://andythewhale/github.io" # the base hostname & protocol for your site
+description: I'm Andy. This is a blog about programming. I'll also post other random stuff.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 twitter_username: andythewhale
 github_username:  andythewhale
+future: true
 
 # Build settings
 markdown: kramdown
-future: true
-timezone: TIMEZONE
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
