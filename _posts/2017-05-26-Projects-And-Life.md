@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Life and Projects"
+title:  "life and projects"
 date:   2017-05-26 05:13
 categories: jekyll update
 ---
