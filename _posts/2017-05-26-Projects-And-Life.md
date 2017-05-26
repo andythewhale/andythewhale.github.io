@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <h3>let's get started.</h3>
-<br
+<br>
 <p>
 <b>Um,</b>right. I had the opportiunity today to drive 7 hours home for the weekend holiday. So that's pretty neat. I'm going to update this more often even though nobody is going to read it. I still for some reasont think it will help me with keeping up and committing to my projects and stuff.
 <p>
