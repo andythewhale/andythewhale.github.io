@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>andythewhale</title>
+    <description>I'm Andy. This is a blog about programming. I'll also post other random stuff.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 May 2017 06:01:32 -0500</pubDate>
+    <lastBuildDate>Fri, 26 May 2017 06:01:32 -0500</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>life and projects</title>
+        <description>&lt;h3&gt;let's get started&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;Um&lt;/b&gt;, right. I had the opportiunity today to drive 7 hours home for the weekend holiday. So that's pretty neat. I'm going to update this more often even though nobody is going to read it. I still for some reasont think it will help me with keeping up and committing to my projects and stuff.
+&lt;p&gt;
+&lt;br /&gt;
+
+&lt;h4&gt;topics:&lt;/h4&gt;
+&lt;br /&gt;
+&lt;p&gt;
+Today we're going to cover a couple things: My current planned projects, my review of the most recent season of Aziz Ansari's Master of None, and I'm going to tell you a couple of books you should read. I'll keep this shortmaybe.
+&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;h4&gt;planned projects:&lt;/h4&gt;
+&lt;br /&gt;
+&lt;p&gt;
+I currently have 3 major planned projects for the next 3 - 6 months. They are all going to be completed in paralel. The first is this random Udacity artificial intelligence course that I'm taking online. There was apparently limited space and I applied to it like 6 months ago. I was (allegedly) accepted into the program. This is a topic I'm super interested in so I thought I'd give it a shot and add it to my running list of things that I'm reviewing. I'll just talk about my personal consensus on the program, I'm not going to go into anything that it's about. So far it's pretty dope. The first project was about search and constraint propogation which is a pretty familiar topic. So far I feel like it's doing it's job. I'm pretty obsessive so I''ll probably run through it pretty quick. Another project I'm working on is this hike map thing for my best friend. He's hiking the Pacific Crest Trail. Which is the trail that runs from Tijuana, Mexico to Vancouver, Canada. It's like 2550 miles or something and my friend sends me GPS data every day. So I think it'd be cool if I made him a visual for when he gets done with the trip just to see his path and some stats on like daily movement or whatever. I'm going to use geoplotlib. This should be a fun and easy project and hopefully I can get an animation made that shows the progress day by day with a stats legend off to the side. The third project I'm working on is just a general liturature review of some deep learning / AI stuff. The most recent paper's that I've read, have been the Google AlphaGo paper (which is crazy dope.) and a 1991 paper on adversarial search by Korf. The search thing with Korf was cool because it made some topics from the AlphaGo paper clearer. I give the literature reviews a 10/10 so far. On top of the education project, I'm reading the deep learning book that is currently being developed by Andrew Trask. I don't really know who he is, but someone told me to read his book. So far it's pretty good and I've learned a lot from it. It presents topics at a very simple level and you can catch on really fast. At times it's too slow, but that's better than being too fast, so it's awesome. I'll keep updating these projects as I go.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4&gt;Master of None: Season 2&lt;/h4&gt;
+&lt;br /&gt;
+&lt;p&gt;
+First thing is first. I think Aziz Ansari is hilarious. I've watched all of his comedy content and, human giant, and obviously parks and recreation. Master of None isn't really something that I watch for the comedy, I just find a lot about the show relatable and interesting. I wouldn't really say it's that great of a show either. Some parts are awkward and are kind of missing something, a lot of it feels forced. However the general themes, the plot, and Aziz make it a worth while investment for any young adult's time. Season 2 was pretty good in that it kept the theme going that dating is worthless, you should be a good person, and life is the same for everyone; but at the same time different. I like the last theme I mentioned, even though it doesn't make sense. I think it's cool to remind myself that everyone around me has their own unique life. Too much of the time people just think that someone is dumb or they're mean or something whent that person has a history. Everyone acts like who they are for a reason. We should all try to be better and we should all hope that others are trying to be better as well. But we should also always understand that the events and the way things are in someone's life is what made them the way they are. Nobody is an asshole on purpose, nobody really thinks they're a bad person. We should try to be understanding of people that exist in different situations. 
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Conclusion: This season was dope, I give it an &lt;b&gt;8/10&lt;/b&gt;, not sure what happened in the ending but that's what made it awesome.&lt;/p&gt;
+&lt;br /&gt;
+&lt;h4&gt; books &lt;/h4&gt;
+&lt;p&gt; 
+Cool. So I already talked about the literature stuff. But I do have some books that everyone should read if they want to learn more about some pretty neat stuff. So for this week I'll throw out the books that really made me thing about AI: The Undoing Project by Micheal Lewis, Superintelligence by Nick Bolstrom, and the Inevitable by Kevin Kelly. They were all super good books and I really enjoyed reading them. Next week I'll talk about the books that got me thinking a lot about life sciences.
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;
+In closing, I've been awake for 24 hours, hopefully this isn't too terrible.
+&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 May 2017 05:13:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/05/26/Projects-And-Life.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/05/26/Projects-And-Life.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>hey, this is my first time posting with you guys</title>
+        <description>&lt;p&gt;
+If you're reading this, I have successfully started a blog. So just to get into the groove of things I'll post something about the most recent books I've read. They're sort of related to artificial intelligence and I think they're some of the best books that I've finished so far this year. I'll try to keep this short because I'm annoyed froms setting up the blog. I'll finish edting this stuff at a later date because I forget all the HTML tags and this is going to look like garbage at first.
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;b&gt;
+&lt;br /&gt;
+Book(s):
+Homo Deus: A Brief History of Tomorrow / Sapiens A Brief History of Humankind
+Author: Dr. Yuval Noah Harari
+&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+The books were great. Homo Deus extends on Yuval's critically acclaimed book &lt;b&gt;Sapiens&lt;/b&gt;. Sapiens is basically a history of everything style book. But it's more than that. I was blown away by how much I took away from it. Yuval goes really in depth to societal structures and does an awesome job at explaining his hypothesis for how human society was formed and is currently constructed. Usually when reading a book I'm skeptical on the ideas it portays and the biases that the author has. However, in Yuval's text, it's like hearing about history from a neutral perspective. Keep in mind, it's possible that I just agree with the author. Sapiens in my opinion is the superior work. But only because history is one of my favorite subjects to know and understand. Regardless, if you're going to read one of these books, you have to read them both, and you have to read them in order.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Anyway, Sapiens describes the current thesis on humankind. It's origins, it's evolution, and our present day situation. The book does a very good job and everything is described extremely well. The major things I took away from the book were the formations, and relationships that develop among large human populations. The idea for why human beings might be different then other animals (from Dr. Harari's they're the same except for one key point, if that). And the current stories that human beings tell themselves to push the envelop for the development of productivity and society as a whole.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+The second novel, Homo Deus, expands on the first book and basically tries to extrapolate on the first book's premises. Which almost literally doesn't mean anything because nobody can predict the future. But Harari is still able to produce good evidence for his theories and ideas. Again, he does such a good job at this to the point where I feel like I'm reading an almost certain future instead of a fictitious expansion. He also continues to restate the themes in the previous book (which is good because there's a lot to take in from the first book). The most exciting thing about the book is Yuval's take on the human end-game theories. They're all interesting and believable ideas. The one I like the most was about humanities increasing necessity for decentralization and the struggle that centralized forces are going to have in the future to uphold their strengths. I also liked a lot of the chatter Dr. Harari had on the increasing need for artificial intelligence. We live in a where where the sum of all people in the world cannot keeo up with increasing amounts of data present in the world. Yuval points out that there needs to be a way to organize and represent data meaningfully or it cannot be used (obvious). But what isn't obvious is that it de-legitimizes central governments. He also points out that we're at the point where we're moving into a world where the population's nuances for how the world is run isn't adjusting fast enough to where we're going. He points out that we're headed for a world where humans (or something more than humans) hold power more disproportionately than they do now. I found the entire book very thought provoking and and very interesting.
+&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;b&gt;
+Conclusion:
+&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Both novels: 10/10
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 May 2017 21:21:00 -0500</pubDate>
+        <link>http://localhost:4000/jekyll/update/2017/05/15/First-Post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2017/05/15/First-Post.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
